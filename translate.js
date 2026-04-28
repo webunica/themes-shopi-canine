@@ -2,7 +2,6 @@ const fs = require('fs');
 const data = JSON.parse(fs.readFileSync('config/settings_schema.json', 'utf8'));
 
 const translations = {
-  "theme_info": "Información del tema",
   "Colors": "Colores",
   "General colors": "Colores generales",
   "Primary Color": "Color principal",
