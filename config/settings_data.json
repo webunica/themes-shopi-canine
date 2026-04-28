@@ -56,7 +56,7 @@
     "email_placeholder": "Ingresa tu correo..",
     "input_placeholder_color": "#000000",
     "logo_header_max_width": 180,
-    "logo_header": "shopify://shop_images/logo_1.png",
+    "logo_header": "shopify://shop_images/logo.jpg",
     "logo_footer_max_width": 175,
     "logo_footer": "shopify://shop_images/logo_1.png",
     "favicon": "shopify://shop_images/favicon.png",
@@ -919,10 +919,10 @@
             "type": "slide",
             "settings": {
               "slider_img": "shopify://shop_images/hero-001.png",
-              "slider_title": "Never give up",
-              "slider_title_color": "#ffffff",
+              "slider_title": "Retroceder nunca",
+              "slider_title_color": "#332e84",
               "slider_title_effect": "e1",
-              "slider_subtitle": "Price strating at $299.00",
+              "slider_subtitle": "Aprovecha nuestras Ofertas",
               "slider_subtitle_color": "#ffffff",
               "slider_subtitle_effect": "e1",
               "slider_btn_bio_effect": "e1",
@@ -994,20 +994,6 @@
           "slider_autoplay_timeout": "5000",
           "slider_autoplay_speed": "5000",
           "slider_content_enable": false
-        }
-      },
-      "wishlist": {
-        "type": "lista de deseos",
-        "settings": {
-          "wish_title": "My Wishlist:",
-          "wish_item_title": "Item",
-          "wish_cart_title": "Agregar al carrito",
-          "wish_cart_add": "Done!",
-          "wish_cart_unvlbe": "ion-android-alert",
-          "wish_cart_stock_out": "Out Of Stock",
-          "wish_buy_now": "Buy Now",
-          "wish_cart_conti": "Continue Shopping",
-          "wish_cart_clear": "Clear Wishlist"
         }
       },
       "return-policy": {
@@ -1835,14 +1821,65 @@
           "border_enable": true,
           "border_color_opacity": 0.1
         }
+      },
+      "tabbed_collections_GkYWix": {
+        "type": "tabbed-collections",
+        "blocks": {
+          "collection_tab_GqMYqC": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "rashguard-short-mma"
+            }
+          },
+          "collection_tab_Qy6GbJ": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "cabezales"
+            }
+          },
+          "collection_tab_DYHFwY": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "canilleras"
+            }
+          },
+          "collection_tab_Ajcxje": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "gi-jiujitsu"
+            }
+          }
+        },
+        "block_order": [
+          "collection_tab_GqMYqC",
+          "collection_tab_Qy6GbJ",
+          "collection_tab_DYHFwY",
+          "collection_tab_Ajcxje"
+        ],
+        "name": "Colecciones por Pestañas",
+        "settings": {
+          "section_title": "Nuestras Colecciones",
+          "bg_color": "#ffffff",
+          "product_limit": 8,
+          "products_per_view": 4,
+          "padding_top": 80,
+          "padding_bottom": 80,
+          "padding_top_mobile": 40,
+          "padding_bottom_mobile": 40
+        }
       }
     },
     "content_for_index": [
       "1605848244aeafd51a",
+      "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6",
+      "tabbed_collections_GkYWix",
       "1263a92d-5313-423d-90f3-913624a0951c",
       "c66990a2-e30e-470b-a9ea-c9cfa6327346",
       "6e8654a7-5d8e-47fc-b9ca-afd303fdf5dd",
-      "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6",
       "ef6708dc-8462-487a-927e-462530ab4806",
       "af6db34d-a076-4955-8a2f-810f290f81f5",
       "e31128e7-5ce8-4ee1-8d1f-64cfa38d56ce",
