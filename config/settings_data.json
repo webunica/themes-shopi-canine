@@ -251,7 +251,7 @@
     "notification_banner_enable": false,
     "notification_bg_img": "",
     "notification_banner1_img": "",
-    "notification_banner_offer": "70% off",
+    "notification_banner_offer": "70% de descuento",
     "notification_banner_offer_text": "en la oferta de hoy",
     "notification_banner2_img": "",
     "notification_banner3_img": "",
@@ -1725,19 +1725,19 @@
           "b693d356-5dcb-47a9-a874-7c556b9fa72f": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Fitness tools"
+              "custom_text": "Artículos deportivos"
             }
           },
           "a7f0684a-8c89-43a4-b450-a7dda42eecce": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Sale up to 70% off"
+              "custom_text": "Hasta 70% de descuento"
             }
           },
           "ac6d579b-2306-4cb1-8e6c-76c6f814f3f5": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "2023 collection"
+              "custom_text": "Nueva colección"
             }
           },
           "a5502d50-e740-47ff-8cdf-48fe8aba97b9": {
@@ -1749,13 +1749,13 @@
           "d11b19f1-7259-4b91-aa8e-b6fc43581816": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Fitness tools"
+              "custom_text": "Artículos deportivos"
             }
           },
           "0c831833-b79c-4fef-a857-da5a572a6918": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Sale up to 70% off"
+              "custom_text": "Hasta 70% de descuento"
             }
           }
         },
