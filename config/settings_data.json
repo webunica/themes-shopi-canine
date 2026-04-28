@@ -1829,28 +1829,36 @@
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": ""
+              "collection": "rashguard-short-mma"
             }
           },
           "collection_tab_Qy6GbJ": {
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": ""
+              "collection": "cabezales"
             }
           },
           "collection_tab_DYHFwY": {
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": ""
+              "collection": "canilleras"
+            }
+          },
+          "collection_tab_Ajcxje": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "gi-jiujitsu"
             }
           }
         },
         "block_order": [
           "collection_tab_GqMYqC",
           "collection_tab_Qy6GbJ",
-          "collection_tab_DYHFwY"
+          "collection_tab_DYHFwY",
+          "collection_tab_Ajcxje"
         ],
         "name": "Colecciones por Pestañas",
         "settings": {
