@@ -387,7 +387,7 @@
           "info_1_text": "<p><a href=\"tel:(210)-986- 2564\" title=\"tel:(210)-986- 2564\">(210)-986- 2564</a></p>",
           "info_2_icon": "ri-truck-line",
           "info_2_label": "Envío gratis",
-          "info_2_text": "<p>Free installation</p>",
+          "info_2_text": "<p>Instalación gratuita</p>",
           "header_bottom_bg_color": "#ffffff",
           "border_enable": true,
           "border": 1,
@@ -395,7 +395,7 @@
           "border_color_opacity": 0.1,
           "header_main_menu": "main-menu",
           "offer_text_icon": "ri-time-line",
-          "offer_text": "Mon - fri : 6:00 am - 10:00 pm | Sun : Closed"
+          "offer_text": "Lun - Vie: 6:00 am - 10:00 pm | Dom: Cerrado"
         }
       },
       "product-template": {
