@@ -942,10 +942,10 @@
             "settings": {
               "slider_img": "shopify://shop_images/artes-marciales-1.png",
               "slider_title": "Productos Resistentes",
-              "slider_title_color": "#ffffff",
+              "slider_title_color": "#ee4036",
               "slider_title_effect": "e1",
               "slider_subtitle": "Revisa nuestro catálogo",
-              "slider_subtitle_color": "#ee4036",
+              "slider_subtitle_color": "#FFFFFF",
               "slider_subtitle_effect": "e1",
               "slider_btn_bio_effect": "e1",
               "slider_button": "Comprar",
