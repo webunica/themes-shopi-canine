@@ -1778,8 +1778,8 @@
             "type": "our_services",
             "settings": {
               "service_icon": "ri-customer-service-2-line",
-              "service_title": "Quality support",
-              "service_desc": "Support 24/7 hours a day",
+              "service_title": "Soporte",
+              "service_desc": "Soporte en horario de oficina",
               "service_url": ""
             }
           },
@@ -1787,8 +1787,8 @@
             "type": "our_services",
             "settings": {
               "service_icon": "ri-exchange-dollar-fill",
-              "service_title": "Money return",
-              "service_desc": "30 days for free return",
+              "service_title": "Garantía de Devolución",
+              "service_desc": "30 dias de garantía en caso de falla",
               "service_url": ""
             }
           },
@@ -1796,8 +1796,8 @@
             "type": "our_services",
             "settings": {
               "service_icon": "ri-bank-card-line",
-              "service_title": "Easy installment",
-              "service_desc": "Purchase in easy EMIs",
+              "service_title": "Productos de calidad",
+              "service_desc": "Productos resistentes",
               "service_url": ""
             }
           }
