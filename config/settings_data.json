@@ -1769,8 +1769,8 @@
             "type": "our_services",
             "settings": {
               "service_icon": "ri-truck-line",
-              "service_title": "Envío gratis",
-              "service_desc": "Free shipping all order",
+              "service_title": "Envío Coordinado",
+              "service_desc": "Envio por pagar o retiro en tienda",
               "service_url": ""
             }
           },
