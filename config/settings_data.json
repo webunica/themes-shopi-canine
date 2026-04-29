@@ -1387,13 +1387,24 @@
               "pro_testi_review": "4",
               "testimonial_title": ""
             }
+          },
+          "testi_slide_xbTV7w": {
+            "type": "testi_slide",
+            "settings": {
+              "testimonial_author_name": "Rodrigo Paredes",
+              "testimonial_author_bio": "Entrenador de Boxeo y Kickboxing, 9 años de experiencia",
+              "testimonial_description": "“Los sacos, paos y guantes que compramos para el gimnasio han resistido muy bien el uso diario. Es difícil encontrar artículos con buena relación precio-calidad, pero aquí realmente quedamos conformes",
+              "pro_testi_review": "4",
+              "testimonial_title": ""
+            }
           }
         },
         "block_order": [
           "a40bfb79-9231-4ece-8572-88cf0f3cfba4",
           "125883a1-a53a-4763-a1ec-f8b09fed28a3",
           "dd34cfb2-8d42-430b-aa3c-ed9ed32ee54c",
-          "462dadd5-4400-4e6b-ab94-cd4a09ff6e7e"
+          "462dadd5-4400-4e6b-ab94-cd4a09ff6e7e",
+          "testi_slide_xbTV7w"
         ],
         "settings": {
           "section_padding_top": 100,
