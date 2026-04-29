@@ -1252,6 +1252,7 @@
       },
       "1661863923c985dc6b": {
         "type": "blog-home",
+        "disabled": true,
         "settings": {
           "blog_padding_top": 100,
           "blog_padding_bottom": 100,
@@ -1350,21 +1351,21 @@
           "a40bfb79-9231-4ece-8572-88cf0f3cfba4": {
             "type": "testi_slide",
             "settings": {
-              "testimonial_author_name": "Kaitlyn kristy",
-              "testimonial_author_bio": "Company ceo",
-              "testimonial_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+              "testimonial_author_name": "Carlos Muñoz",
+              "testimonial_author_bio": "Practicante de Muay Thai, 4 años de experiencia",
+              "testimonial_description": "“Compré mis guantes y vendas en la tienda y la calidad me sorprendió. Se nota que los productos están pensados para entrenamientos exigentes. Me atendieron muy bien y me ayudaron a elegir el tamaño correcto.”",
               "pro_testi_review": "5",
-              "testimonial_title": "Kaitlyn kristy"
+              "testimonial_title": ""
             }
           },
           "125883a1-a53a-4763-a1ec-f8b09fed28a3": {
             "type": "testi_slide",
             "settings": {
-              "testimonial_author_name": "Michael smith",
-              "testimonial_author_bio": "Gym trainer",
-              "testimonial_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+              "testimonial_author_name": "Valentina Rojas",
+              "testimonial_author_bio": "Cinturón azul de Jiu-Jitsu Brasileño, 3 años de experiencia",
+              "testimonial_description": "“Necesitaba un kimono resistente para entrenar varias veces por semana y encontré justo lo que buscaba. La tela es firme, cómoda y después de varios lavados sigue impecable. Muy buena experiencia de compra.”",
               "pro_testi_review": "3",
-              "testimonial_title": "Michael smith"
+              "testimonial_title": ""
             }
           },
           "dd34cfb2-8d42-430b-aa3c-ed9ed32ee54c": {
@@ -1407,7 +1408,7 @@
           "border_color": "#eeeeee",
           "border_enable": false,
           "border_color_opacity": 0.3,
-          "section_title": "Customer review"
+          "section_title": "Qué dicen nuestros clientes"
         }
       },
       "ef6708dc-8462-487a-927e-462530ab4806": {
@@ -1797,7 +1798,7 @@
             "settings": {
               "service_icon": "ri-bank-card-line",
               "service_title": "Productos de calidad",
-              "service_desc": "Productos resistentes",
+              "service_desc": "Productos resistentes garantizados",
               "service_url": ""
             }
           }
