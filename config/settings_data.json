@@ -1666,44 +1666,51 @@
       "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6": {
         "type": "offer-text",
         "blocks": {
+          "offer_text_hVfJGF": {
+            "type": "offer_text",
+            "settings": {
+              "custom_text": "Cabezales"
+            }
+          },
           "b693d356-5dcb-47a9-a874-7c556b9fa72f": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Fitness tools"
+              "custom_text": "Canilleras"
             }
           },
           "a7f0684a-8c89-43a4-b450-a7dda42eecce": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Sale up to 70% off"
+              "custom_text": "Gi JiuJitsu"
             }
           },
           "ac6d579b-2306-4cb1-8e6c-76c6f814f3f5": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "2023 collection"
+              "custom_text": "Cinturones"
             }
           },
           "a5502d50-e740-47ff-8cdf-48fe8aba97b9": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Choose your tools"
+              "custom_text": "Rashguard"
             }
           },
           "d11b19f1-7259-4b91-aa8e-b6fc43581816": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Fitness tools"
+              "custom_text": "Guantes"
             }
           },
           "0c831833-b79c-4fef-a857-da5a572a6918": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Sale up to 70% off"
+              "custom_text": "Protectores"
             }
           }
         },
         "block_order": [
+          "offer_text_hVfJGF",
           "b693d356-5dcb-47a9-a874-7c556b9fa72f",
           "a7f0684a-8c89-43a4-b450-a7dda42eecce",
           "ac6d579b-2306-4cb1-8e6c-76c6f814f3f5",
