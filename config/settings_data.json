@@ -1542,70 +1542,6 @@
           "pro_tab_button_enable": true
         }
       },
-      "e31128e7-5ce8-4ee1-8d1f-64cfa38d56ce": {
-        "type": "brand-logo",
-        "blocks": {
-          "711a74a5-b5b9-43bd-9bd0-7d1b79eb6856": {
-            "type": "single_brand",
-            "settings": {
-              "brand_url": ""
-            }
-          },
-          "24e3501c-f556-49cb-9667-60d355035617": {
-            "type": "single_brand",
-            "settings": {
-              "brand_url": ""
-            }
-          },
-          "22202e7d-edc3-47f2-9bde-e874630c23a7": {
-            "type": "single_brand",
-            "settings": {
-              "brand_url": ""
-            }
-          },
-          "55b98d55-2855-4617-b83b-0edb13f13ec1": {
-            "type": "single_brand",
-            "settings": {
-              "brand_url": ""
-            }
-          },
-          "8023b88c-7dad-4a28-bdef-344c95ae924a": {
-            "type": "single_brand",
-            "settings": {
-              "brand_url": ""
-            }
-          },
-          "54499c3f-043d-4a26-99b2-a1cf83fe6a37": {
-            "type": "single_brand",
-            "settings": {
-              "brand_url": ""
-            }
-          }
-        },
-        "block_order": [
-          "711a74a5-b5b9-43bd-9bd0-7d1b79eb6856",
-          "24e3501c-f556-49cb-9667-60d355035617",
-          "22202e7d-edc3-47f2-9bde-e874630c23a7",
-          "55b98d55-2855-4617-b83b-0edb13f13ec1",
-          "8023b88c-7dad-4a28-bdef-344c95ae924a",
-          "54499c3f-043d-4a26-99b2-a1cf83fe6a37"
-        ],
-        "settings": {
-          "brand_padding_top": 100,
-          "brand_padding_bottom": 100,
-          "brand_padding_top_lg": 80,
-          "brand_padding_bottom_lg": 80,
-          "brand_padding_top_xs": 60,
-          "brand_padding_bottom_xs": 60,
-          "section_bg_color_enable": true,
-          "section_bg_color": "#f7f7f7",
-          "section_bg_image_enable": false,
-          "border": 1,
-          "border_color": "#808080",
-          "border_enable": true,
-          "border_color_opacity": 0.2
-        }
-      },
       "footer": {
         "type": "footer",
         "blocks": {
@@ -1900,7 +1836,6 @@
       "6e8654a7-5d8e-47fc-b9ca-afd303fdf5dd",
       "ef6708dc-8462-487a-927e-462530ab4806",
       "af6db34d-a076-4955-8a2f-810f290f81f5",
-      "e31128e7-5ce8-4ee1-8d1f-64cfa38d56ce",
       "1661863923c985dc6b",
       "671b775d-91e5-49fc-968e-23294d305ec6"
     ]
