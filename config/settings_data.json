@@ -684,7 +684,7 @@
           "border_color_opacity": 0.2,
           "copy_right_text1": "Derechos de autor",
           "copy_right_icon": "fa fa-copyright",
-          "copy_right_text2": "2023 by \n qodex<sup>TM</sup>"
+          "copy_right_text2": "2026 por webunica.cl"
         }
       },
       "our-vision": {
@@ -945,7 +945,7 @@
               "slider_title_color": "#ee4036",
               "slider_title_effect": "e1",
               "slider_subtitle": "Revisa nuestro catálogo",
-              "slider_subtitle_color": "#FFFFFF",
+              "slider_subtitle_color": "#ffffff",
               "slider_subtitle_effect": "e1",
               "slider_btn_bio_effect": "e1",
               "slider_button": "Comprar",
