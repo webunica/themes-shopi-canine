@@ -1596,8 +1596,8 @@
             "type": "footer_menu",
             "settings": {
               "container_width": 17,
-              "show_nav_title": true,
-              "footer_menu_handle": "footer"
+              "show_nav_title": false,
+              "footer_menu_handle": "footer-1"
             }
           },
           "97b722bf-4799-41e4-881e-a01896945d4d": {
