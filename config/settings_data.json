@@ -1618,6 +1618,7 @@
           },
           "c2311b1b-c1ab-4c5d-9c63-923bc6249277": {
             "type": "instagram",
+            "disabled": true,
             "settings": {
               "container_width": 41,
               "instagram_title": "Instagram",
@@ -1650,7 +1651,7 @@
           "border_enable": false,
           "border_color_opacity": 0.1,
           "info_icon_class": "ri-map-pin-line",
-          "info_text": "<p>55 East 10th street, new <br/>york, ny 10003, united states</p>",
+          "info_text": "<p>Ramón Cruz 3291, Macul, Santiago de Chile</p>",
           "contact_title": "Contact us",
           "contact_1_icon_class": "ri-phone-line",
           "contact_1_text": "<p><a href=\"tel:+(210) 123 456 7890\" title=\"tel:+(210) 123 456 7890\">+(210) 123 456 7890</a></p>",
