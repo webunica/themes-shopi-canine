@@ -1183,7 +1183,7 @@
       "top-nocification-bar": {
         "type": "top-nocification-bar",
         "settings": {
-          "topbar_notification_enable": false,
+          "topbar_notification_enable": true,
           "topbar_notification_bg_color": "#31af68",
           "topbar_notification_txt_color": "#ffffff",
           "custom_link_1": "<p><a href=\"/pages/contact-us\" title=\"Contact us\">Help & Support</a></p>",
