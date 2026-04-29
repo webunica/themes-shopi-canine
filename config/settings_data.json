@@ -1463,6 +1463,7 @@
           "0bdf1641-6da6-407f-acaa-72b124a1b0b0",
           "541a547a-a12f-4f07-a90b-a76cba49af99"
         ],
+        "disabled": true,
         "settings": {
           "section_padding_top": 100,
           "section_padding_bottom": 100,
@@ -1637,6 +1638,7 @@
           "48e36d71-f919-4ee5-adff-5ac593232090",
           "1ff2536c-b1f0-4674-9440-8b7d7506a456"
         ],
+        "disabled": true,
         "settings": {
           "custom_video_padding_top": 100,
           "custom_video_padding_bottom": 100,
