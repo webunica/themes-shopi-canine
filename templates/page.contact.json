@@ -55,22 +55,6 @@
         "our_ser_bgcolor": "#ffffff"
       }
     },
-    "1662974000da2ae674": {
-      "type": "contact-banner",
-      "settings": {
-        "section_padding_top": 100,
-        "section_padding_bottom": 100,
-        "section_padding_top_lg": 80,
-        "section_padding_bottom_lg": 80,
-        "section_padding_top_xs": 60,
-        "section_padding_bottom_xs": 60,
-        "section_bg_color": "#f7f7f7",
-        "banner_title": "We would love to talk \nwith our great customer",
-        "banner_description": "Give us a call or drop by anytime, we endeavourto answer all enquiries within 24 hours on business days I’ve created a vocabulary of different styles i draw from many different ways to take a picture.",
-        "banner_button": "Shop now",
-        "banner_url": ""
-      }
-    },
     "contact-us": {
       "type": "contact-us",
       "settings": {
@@ -91,7 +75,6 @@
   },
   "order": [
     "1662971666b663c615",
-    "1662974000da2ae674",
     "contact-us"
   ]
 }
