@@ -1735,18 +1735,18 @@
       "tabbed_collections_GkYWix": {
         "type": "tabbed-collections",
         "blocks": {
-          "collection_tab_GqMYqC": {
-            "type": "collection_tab",
-            "settings": {
-              "tab_title": "",
-              "collection": "coderas-rodilleras"
-            }
-          },
           "collection_tab_Qy6GbJ": {
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
               "collection": "guantes-y-guantillas"
+            }
+          },
+          "collection_tab_GqMYqC": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "coderas-rodilleras"
             }
           },
           "collection_tab_DYHFwY": {
@@ -1765,8 +1765,8 @@
           }
         },
         "block_order": [
-          "collection_tab_GqMYqC",
           "collection_tab_Qy6GbJ",
+          "collection_tab_GqMYqC",
           "collection_tab_DYHFwY",
           "collection_tab_Ajcxje"
         ],
