@@ -1292,61 +1292,6 @@
           "social_message": "Spread the word"
         }
       },
-      "1263a92d-5313-423d-90f3-913624a0951c": {
-        "type": "slider-category",
-        "blocks": {
-          "d599fac9-e3fd-40b7-84fb-b8ed58be86ef": {
-            "type": "product_tab",
-            "settings": {
-              "slider_category_handle": "home-gym"
-            }
-          },
-          "b60ed547-9b1d-4021-99c2-6fe7887a0755": {
-            "type": "product_tab",
-            "settings": {
-              "slider_category_handle": "treadmill"
-            }
-          },
-          "21c636e8-4a2e-496b-939b-4712245744ee": {
-            "type": "product_tab",
-            "settings": {
-              "slider_category_handle": "exercise-bike"
-            }
-          },
-          "419b50e6-cbc6-41a1-9684-5a66c33ff7f8": {
-            "type": "product_tab",
-            "settings": {
-              "slider_category_handle": "leg-curl"
-            }
-          },
-          "c9262178-0fe8-43bf-829b-c9364338b4f8": {
-            "type": "product_tab",
-            "settings": {
-              "slider_category_handle": "bench-press"
-            }
-          }
-        },
-        "block_order": [
-          "d599fac9-e3fd-40b7-84fb-b8ed58be86ef",
-          "b60ed547-9b1d-4021-99c2-6fe7887a0755",
-          "21c636e8-4a2e-496b-939b-4712245744ee",
-          "419b50e6-cbc6-41a1-9684-5a66c33ff7f8",
-          "c9262178-0fe8-43bf-829b-c9364338b4f8"
-        ],
-        "settings": {
-          "section_padding_top": 100,
-          "section_padding_bottom": 100,
-          "section_padding_top_lg": 80,
-          "section_padding_bottom_lg": 80,
-          "section_padding_top_xs": 60,
-          "section_padding_bottom_xs": 60,
-          "section_bg_color": "#ffffff",
-          "section_title": "Gym category",
-          "item_label": "Item",
-          "items_label": "Items",
-          "cat_shop_title": "Comprar"
-        }
-      },
       "af6db34d-a076-4955-8a2f-810f290f81f5": {
         "type": "testimonial",
         "blocks": {
@@ -1794,28 +1739,28 @@
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": "rashguard-short-mma"
+              "collection": "coderas-rodilleras"
             }
           },
           "collection_tab_Qy6GbJ": {
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": "cabezales"
+              "collection": "guantes-y-guantillas"
             }
           },
           "collection_tab_DYHFwY": {
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": "canilleras"
+              "collection": "protectores"
             }
           },
           "collection_tab_Ajcxje": {
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": "gi-jiujitsu"
+              "collection": "vendas-y-hand-grip"
             }
           }
         },
@@ -1824,6 +1769,56 @@
           "collection_tab_Qy6GbJ",
           "collection_tab_DYHFwY",
           "collection_tab_Ajcxje"
+        ],
+        "name": "Colecciones por Pestañas",
+        "settings": {
+          "section_title": "Productos más vendidos",
+          "bg_color": "#ffffff",
+          "product_limit": 8,
+          "products_per_view": 4,
+          "padding_top": 80,
+          "padding_bottom": 80,
+          "padding_top_mobile": 40,
+          "padding_bottom_mobile": 40
+        }
+      },
+      "tabbed_collections_VpQRgz": {
+        "type": "tabbed-collections",
+        "blocks": {
+          "collection_tab_FXdyVV": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "rashguard-short-mma"
+            }
+          },
+          "collection_tab_cqnefp": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "cabezales"
+            }
+          },
+          "collection_tab_8gqd7g": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "canilleras"
+            }
+          },
+          "collection_tab_hfjXQm": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "gi-jiujitsu"
+            }
+          }
+        },
+        "block_order": [
+          "collection_tab_FXdyVV",
+          "collection_tab_cqnefp",
+          "collection_tab_8gqd7g",
+          "collection_tab_hfjXQm"
         ],
         "name": "Colecciones por Pestañas",
         "settings": {
@@ -1841,8 +1836,8 @@
     "content_for_index": [
       "1605848244aeafd51a",
       "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6",
+      "tabbed_collections_VpQRgz",
       "tabbed_collections_GkYWix",
-      "1263a92d-5313-423d-90f3-913624a0951c",
       "c66990a2-e30e-470b-a9ea-c9cfa6327346",
       "6e8654a7-5d8e-47fc-b9ca-afd303fdf5dd",
       "ef6708dc-8462-487a-927e-462530ab4806",
