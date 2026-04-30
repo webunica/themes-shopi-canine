@@ -12,13 +12,13 @@
     "cart-template": {
       "type": "cart-template",
       "settings": {
-        "item_title": "Product item",
-        "price_title": "Price",
-        "quantity_title": "Quantity",
-        "total_title": "Total price",
+        "item_title": "Artículo del producto",
+        "price_title": "Precio",
+        "quantity_title": "Cantidad",
+        "total_title": "Precio total",
         "cart_vendor_enable": false,
         "cart_notes_enable": true,
-        "shipping_calculator": true,
+        "shipping_calculator": false,
         "shipping_calculator_heading": "Información de envío",
         "shipping_calculator_button_title": "Calcular el envío",
         "cart_note_title": "Instrucciones especiales para el vendedor",
