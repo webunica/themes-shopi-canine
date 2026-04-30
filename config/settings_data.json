@@ -1849,7 +1849,22 @@
       "af6db34d-a076-4955-8a2f-810f290f81f5",
       "1661863923c985dc6b",
       "671b775d-91e5-49fc-968e-23294d305ec6"
-    ]
+    ],
+    "blocks": {
+      "6815396902151389245": {
+        "type": "shopify://apps/wava-carts/blocks/whatsapp-chat-button/29b7d300-2d1f-4108-a090-92806a9e2817",
+        "disabled": false,
+        "settings": {
+          "vertical_position": "bottom",
+          "horizontal_position": "right",
+          "vertical_distance": 20,
+          "horizontal_distance": 20,
+          "button_size": 60,
+          "icon_color": "#25D366",
+          "icon_secondary_color": "#FFFFFF"
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
