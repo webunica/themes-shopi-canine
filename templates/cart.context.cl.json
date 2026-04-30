@@ -1,0 +1,29 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "parent": "cart.json",
+  "context": {
+    "market": "cl"
+  },
+  "sections": {
+    "cart-template": {
+      "settings": {
+        "item_title": "Artículo del producto",
+        "price_title": "Precio",
+        "quantity_title": "Cantidad",
+        "total_title": "Precio Total",
+        "shipping_calculator_heading": "Información de envío",
+        "cart_total_title": "Total",
+        "cart_continue_title": "Continua comprando",
+        "here_title": "aqui"
+      }
+    }
+  }
+}
