@@ -682,9 +682,9 @@
           "border_color": "#808080",
           "border_enable": true,
           "border_color_opacity": 0.2,
-          "copy_right_text1": "Derechos de autor",
-          "copy_right_icon": "fa fa-copyright",
-          "copy_right_text2": "2026 por webunica.cl"
+          "copy_right_text1": "Canine Fight",
+          "copy_right_icon": "",
+          "copy_right_text2": "<p>\n  Desarrollado 2026 por \n  <a href=\"https://webunica.cl\" target=\"_blank\" rel=\"noopener noreferrer\">\n    Webunica.cl\n  </a>\n</p>"
         }
       },
       "our-vision": {
