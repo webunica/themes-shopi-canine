@@ -1433,63 +1433,6 @@
           "newsletter_title_color": "#333333"
         }
       },
-      "c66990a2-e30e-470b-a9ea-c9cfa6327346": {
-        "type": "featured-product",
-        "blocks": {
-          "f51d8f45-dc31-495f-8ee3-82d623f205aa": {
-            "type": "product_tab",
-            "settings": {
-              "tab_product": "latest-product"
-            }
-          },
-          "ca4c8b32-7717-464f-9099-a298f85f1e00": {
-            "type": "product_tab",
-            "settings": {
-              "tab_product": "treadmill"
-            }
-          },
-          "c059cbe4-8af0-480f-aa6a-28b280f999d3": {
-            "type": "product_tab",
-            "settings": {
-              "tab_product": "leg-curl"
-            }
-          },
-          "ce37d073-17d2-48ec-b1b6-0d3cd262af3e": {
-            "type": "product_tab",
-            "settings": {
-              "tab_product": "home-gym"
-            }
-          }
-        },
-        "block_order": [
-          "f51d8f45-dc31-495f-8ee3-82d623f205aa",
-          "ca4c8b32-7717-464f-9099-a298f85f1e00",
-          "c059cbe4-8af0-480f-aa6a-28b280f999d3",
-          "ce37d073-17d2-48ec-b1b6-0d3cd262af3e"
-        ],
-        "settings": {
-          "pro_tab_padding_top": 100,
-          "pro_tab_padding_bottom": 100,
-          "pro_tab_padding_top_ip": 80,
-          "pro_tab_padding_bottom_ip": 80,
-          "pro_tab_padding_top_xs": 60,
-          "pro_tab_padding_bottom_xs": 60,
-          "pro_tab_bgcolor": "#f7f7f7",
-          "pro_tab_bgcolor_enable": false,
-          "section_title": "Most popular",
-          "border": 1,
-          "border_color": "#808080",
-          "border_color_opacity": 0.2,
-          "border_enable": true,
-          "pro_tab_product_view": "grid",
-          "featured_product_limit_handle": "12",
-          "product_col": "2",
-          "slide_product_limit": "4",
-          "pro_tab_button_text": "All product",
-          "pro_tab_button_style": "btn-style1",
-          "pro_tab_button_enable": true
-        }
-      },
       "footer": {
         "type": "footer",
         "blocks": {
@@ -1838,7 +1781,6 @@
       "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6",
       "tabbed_collections_VpQRgz",
       "tabbed_collections_GkYWix",
-      "c66990a2-e30e-470b-a9ea-c9cfa6327346",
       "6e8654a7-5d8e-47fc-b9ca-afd303fdf5dd",
       "ef6708dc-8462-487a-927e-462530ab4806",
       "af6db34d-a076-4955-8a2f-810f290f81f5",
