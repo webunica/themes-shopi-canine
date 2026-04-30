@@ -73,13 +73,13 @@
         "69f041ed-e935-4b3f-9d74-23f751e3e6eb": {
           "type": "product_desc",
           "settings": {
-            "product_info_tab_title": "Description"
+            "product_info_tab_title": "Descripción"
           }
         },
         "080850ed-c09e-4bae-80dd-c6930c35a9da": {
           "type": "additional_information",
           "settings": {
-            "additional_information_title": "Additional information"
+            "additional_information_title": "Información Adicional"
           }
         }
       },
