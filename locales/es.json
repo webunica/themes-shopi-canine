@@ -148,7 +148,7 @@
   "contact": {
     "form": {
       "fname": "Nombre completo",
-      "lname": "Apellido",
+      "lname": "Apellidos",
       "email": "Dirección de correo electrónico",
       "phone": "Número de teléfono",
       "message": "Introduce tu mensaje",
