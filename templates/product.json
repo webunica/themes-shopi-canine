@@ -61,10 +61,10 @@
         "border_enable": false,
         "border_color_opacity": 0.2,
         "zoom_enable": true,
-        "availability_title": "Availability:",
-        "brand_title": "Brand:",
-        "in_stock_title": "In stock",
-        "out_of_stock_title": "Out of stock"
+        "availability_title": "Disponibilidad:",
+        "brand_title": "Marca:",
+        "in_stock_title": "En Stock",
+        "out_of_stock_title": "Sin Stock"
       }
     },
     "single-product-tab": {
