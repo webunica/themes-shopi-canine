@@ -1808,6 +1808,16 @@
           "icon_color": "#25D366",
           "icon_secondary_color": "#ffffff"
         }
+      },
+      "208873322266159137": {
+        "type": "shopify://apps/searchanise-search-filter/blocks/app-embed-v2/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
+        "disabled": false,
+        "settings": {}
+      },
+      "15844738459885593049": {
+        "type": "shopify://apps/upselleandola/blocks/main-embed-block/67101e49-bbc9-40e3-be98-70f15d39a505",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
