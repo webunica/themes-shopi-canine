@@ -1799,15 +1799,7 @@
       "6815396902151389245": {
         "type": "shopify://apps/wava-carts/blocks/whatsapp-chat-button/29b7d300-2d1f-4108-a090-92806a9e2817",
         "disabled": false,
-        "settings": {
-          "vertical_position": "bottom",
-          "horizontal_position": "right",
-          "vertical_distance": 20,
-          "horizontal_distance": 20,
-          "button_size": 60,
-          "icon_color": "#25D366",
-          "icon_secondary_color": "#ffffff"
-        }
+        "settings": {}
       },
       "208873322266159137": {
         "type": "shopify://apps/searchanise-search-filter/blocks/app-embed-v2/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
@@ -1835,6 +1827,11 @@
         "settings": {
           "position": "right"
         }
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
