@@ -403,7 +403,7 @@
           "border_color_opacity": 0.1,
           "header_main_menu": "main-menu",
           "offer_text_icon": "ri-time-line",
-          "offer_text": "Lun - Vie : 10:00 am - 18:00 pm | Dom : Cerrado"
+          "offer_text": "Despachos a todo Chile en 24 a 48 hrs habiles"
         }
       },
       "product-template": {
@@ -1198,9 +1198,9 @@
           "topbar_notification_txt_color": "#ffffff",
           "custom_link_1": "",
           "custom_link_2": "",
-          "offer_text": "<p>ENVIO GRATIS RM Y 50% DE DESCUENTO EN REGIONES 🛒🏷️🛍️💳</p>",
-          "contact_label": "Email:",
-          "contact_text": "<p>lasabanadesarabi@gmail.com</p>"
+          "offer_text": "<p><strong>¡ OFERTA CYBER !</strong></p><p><strong>&nbsp;ENVIO GRATIS REGION METROPOLITANA&nbsp;</strong></p><p><strong>50% DCTO EN ENVIO A REGIONES</strong> 🛒🏷️🛍️</p><p></p>",
+          "contact_label": "",
+          "contact_text": "<p><strong>HASTA 3, 6 Y 12 CUOTAS SIN INTERES!</strong></p>"
         }
       },
       "slider-category": {
@@ -1565,7 +1565,7 @@
           "offer_text_jXHEqG": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "5,6 y 7 de octubre CYBER"
+              "custom_text": "5, 6 y 7 de octubre CYBER"
             }
           },
           "offer_text_PdbtLT": {
@@ -1633,7 +1633,7 @@
           "section_padding_bottom": 25,
           "section_bg_color_enable": true,
           "section_bg_color": "#332e84",
-          "section_text_color": "#ffffff"
+          "section_text_color": "#EFECEC"
         }
       },
       "671b775d-91e5-49fc-968e-23294d305ec6": {
@@ -1777,13 +1777,21 @@
               "tab_title": "",
               "collection": "gi-jiujitsu"
             }
+          },
+          "collection_tab_dpWA9K": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "KIT INICIO JIU JITSU",
+              "collection": "gi-jiujitsu"
+            }
           }
         },
         "block_order": [
           "collection_tab_FXdyVV",
           "collection_tab_cqnefp",
           "collection_tab_8gqd7g",
-          "collection_tab_hfjXQm"
+          "collection_tab_hfjXQm",
+          "collection_tab_dpWA9K"
         ],
         "name": "Colecciones por Pestañas",
         "settings": {
