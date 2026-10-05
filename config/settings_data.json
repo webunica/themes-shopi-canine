@@ -1198,7 +1198,7 @@
           "topbar_notification_txt_color": "#ffffff",
           "custom_link_1": "",
           "custom_link_2": "",
-          "offer_text": "<p>Envio por pagar o retiro en tienda</p>",
+          "offer_text": "<p>ENVIO GRATIS RM Y 50% DE DESCUENTO EN REGIONES 🛒🏷️🛍️💳</p>",
           "contact_label": "Email:",
           "contact_text": "<p>lasabanadesarabi@gmail.com</p>"
         }
@@ -1562,6 +1562,18 @@
       "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6": {
         "type": "offer-text",
         "blocks": {
+          "offer_text_jXHEqG": {
+            "type": "offer_text",
+            "settings": {
+              "custom_text": "5,6 y 7 de octubre CYBER"
+            }
+          },
+          "offer_text_PdbtLT": {
+            "type": "offer_text",
+            "settings": {
+              "custom_text": "Hasta 40% dcto CYBER"
+            }
+          },
           "offer_text_hVfJGF": {
             "type": "offer_text",
             "settings": {
@@ -1580,10 +1592,10 @@
               "custom_text": "Gi JiuJitsu"
             }
           },
-          "ac6d579b-2306-4cb1-8e6c-76c6f814f3f5": {
+          "offer_text_kq9HdV": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Cinturones"
+              "custom_text": "Hasta 40% dcto CYBER"
             }
           },
           "a5502d50-e740-47ff-8cdf-48fe8aba97b9": {
@@ -1606,10 +1618,12 @@
           }
         },
         "block_order": [
+          "offer_text_jXHEqG",
+          "offer_text_PdbtLT",
           "offer_text_hVfJGF",
           "b693d356-5dcb-47a9-a874-7c556b9fa72f",
           "a7f0684a-8c89-43a4-b450-a7dda42eecce",
-          "ac6d579b-2306-4cb1-8e6c-76c6f814f3f5",
+          "offer_text_kq9HdV",
           "a5502d50-e740-47ff-8cdf-48fe8aba97b9",
           "d11b19f1-7259-4b91-aa8e-b6fc43581816",
           "0c831833-b79c-4fef-a857-da5a572a6918"
