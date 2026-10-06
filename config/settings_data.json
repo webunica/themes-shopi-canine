@@ -1326,16 +1326,6 @@
               "testimonial_title": ""
             }
           },
-          "testi_slide_LPHBkG": {
-            "type": "testi_slide",
-            "settings": {
-              "testimonial_author_name": "Kaitlyn kristy",
-              "testimonial_author_bio": "Company ceo",
-              "testimonial_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-              "pro_testi_review": "5",
-              "testimonial_title": "Kaitlyn kristy"
-            }
-          },
           "dd34cfb2-8d42-430b-aa3c-ed9ed32ee54c": {
             "type": "testi_slide",
             "settings": {
@@ -1373,7 +1363,6 @@
         "block_order": [
           "a40bfb79-9231-4ece-8572-88cf0f3cfba4",
           "125883a1-a53a-4763-a1ec-f8b09fed28a3",
-          "testi_slide_LPHBkG",
           "dd34cfb2-8d42-430b-aa3c-ed9ed32ee54c",
           "462dadd5-4400-4e6b-ab94-cd4a09ff6e7e",
           "testi_slide_xbTV7w"
