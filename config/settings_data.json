@@ -1762,21 +1762,7 @@
             "type": "collection_tab",
             "settings": {
               "tab_title": "",
-              "collection": "cabezales"
-            }
-          },
-          "collection_tab_8gqd7g": {
-            "type": "collection_tab",
-            "settings": {
-              "tab_title": "",
-              "collection": "canilleras"
-            }
-          },
-          "collection_tab_hfjXQm": {
-            "type": "collection_tab",
-            "settings": {
-              "tab_title": "",
-              "collection": "gi-jiujitsu"
+              "collection": "guantes-y-guantillas"
             }
           },
           "collection_tab_dpWA9K": {
@@ -1785,14 +1771,20 @@
               "tab_title": "KIT INICIO JIU JITSU",
               "collection": "gi-jiujitsu"
             }
+          },
+          "collection_tab_8gqd7g": {
+            "type": "collection_tab",
+            "settings": {
+              "tab_title": "",
+              "collection": "canilleras"
+            }
           }
         },
         "block_order": [
           "collection_tab_FXdyVV",
           "collection_tab_cqnefp",
-          "collection_tab_8gqd7g",
-          "collection_tab_hfjXQm",
-          "collection_tab_dpWA9K"
+          "collection_tab_dpWA9K",
+          "collection_tab_8gqd7g"
         ],
         "name": "Colecciones por Pestañas",
         "settings": {
