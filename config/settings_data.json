@@ -402,8 +402,8 @@
           "border_color": "#808080",
           "border_color_opacity": 0.1,
           "header_main_menu": "main-menu",
-          "offer_text_icon": "ri-time-line",
-          "offer_text": "Despachos a todo Chile en 24 a 48 hrs habiles"
+          "offer_text_icon": "",
+          "offer_text": ""
         }
       },
       "product-template": {
