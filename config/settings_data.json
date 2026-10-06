@@ -391,11 +391,11 @@
           "header_sticky_enable": true,
           "header_top_bg_color": "#ffffff",
           "info_1_icon": "ri-customer-service-2-line",
-          "info_1_label": "¿Necesitas ayuda?",
+          "info_1_label": "¿Necesitas ayuda? Escríbenos:",
           "info_1_text": "<p>+56 9 8340 6651</p>",
-          "info_2_icon": "ri-truck-line",
-          "info_2_label": "Despachos a todo Chile",
-          "info_2_text": "<p>24 a 48 hrs hábiles</p>",
+          "info_2_icon": "",
+          "info_2_label": "",
+          "info_2_text": "",
           "header_bottom_bg_color": "#ffffff",
           "border_enable": true,
           "border": 1,
@@ -403,7 +403,7 @@
           "border_color_opacity": 0.1,
           "header_main_menu": "main-menu",
           "offer_text_icon": "ri-time-line",
-          "offer_text": "Despachos a todo Chile en 24 a 48 hrs habiles"
+          "offer_text": "Despachos a todo Chile en 24 a 48 hrs hábiles"
         }
       },
       "product-template": {
