@@ -1198,7 +1198,7 @@
           "topbar_notification_txt_color": "#ffffff",
           "custom_link_1": "",
           "custom_link_2": "",
-          "offer_text": "<p><strong>¡ OFERTA CYBER !</strong></p><p><strong>&nbsp;ENVIO GRATIS REGION METROPOLITANA&nbsp;</strong></p><p><strong>50% DCTO EN ENVIO A REGIONES</strong> 🛒🏷️🛍️</p><p></p>",
+          "offer_text": "<p><strong>¡Hasta 40% OFF EN CYBER! + ENVÍO GRATIS EN REGIÓN METROPOLITANA | 50% DCTO EN ENVÍO A REGIONES</strong> 🛒🏷️🛍️</p>",
           "contact_label": "",
           "contact_text": "<p><strong>HASTA 3, 6 Y 12 CUOTAS SIN INTERES!</strong></p>"
         }
@@ -1633,7 +1633,7 @@
           "section_padding_bottom": 25,
           "section_bg_color_enable": true,
           "section_bg_color": "#332e84",
-          "section_text_color": "#EFECEC"
+          "section_text_color": "#efecec"
         }
       },
       "671b775d-91e5-49fc-968e-23294d305ec6": {
@@ -1818,11 +1818,6 @@
       "671b775d-91e5-49fc-968e-23294d305ec6"
     ],
     "blocks": {
-      "6815396902151389245": {
-        "type": "shopify://apps/wava-carts/blocks/whatsapp-chat-button/29b7d300-2d1f-4108-a090-92806a9e2817",
-        "disabled": false,
-        "settings": {}
-      },
       "208873322266159137": {
         "type": "shopify://apps/searchanise-search-filter/blocks/app-embed-v2/d8f24ada-02b1-458a-bbeb-5bf16d5c921e",
         "disabled": false,
