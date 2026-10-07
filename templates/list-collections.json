@@ -1,1 +1,29 @@
-{"sections":{"list-collection-template":{"type":"list-collection-template","settings":{}}},"order":["list-collection-template"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "list-collection-template": {
+      "type": "list-collection-template",
+      "settings": {
+        "section_padding_top": 100,
+        "section_padding_bottom": 100,
+        "section_padding_top_lg": 70,
+        "section_padding_bottom_lg": 70,
+        "section_padding_top_xs": 50,
+        "section_padding_bottom_xs": 50,
+        "items_products": "Product",
+        "coll_btn": "Ver colección"
+      }
+    }
+  },
+  "order": [
+    "list-collection-template"
+  ]
+}
