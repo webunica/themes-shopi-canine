@@ -12,7 +12,12 @@
               </div>
               <div class="header-element custom-info">
                 <div class="custom-info-block">
+                  
+                  {%- if section.settings.info_1_link != blank -%}
+                  <a href="{{ section.settings.info_1_link }}" class="custom-info-item" style="text-decoration: none; color: inherit;">
+                  {%- else -%}
                   <div class="custom-info-item">
+                  {%- endif -%}
                     {% if section.settings.info_1_icon != '' %}
                     <div class="info-icon">
                       <span class="icon"><i class="{{ section.settings.info_1_icon }}"></i></span>
@@ -26,7 +31,12 @@
                       {{ section.settings.info_1_text }}
                       {% endif %}
                     </div>
+                  {%- if section.settings.info_1_link != blank -%}
+                  </a>
+                  {%- else -%}
                   </div>
+                  {%- endif -%}
+
                   <div class="custom-info-item">
                     {% if section.settings.info_2_icon != '' %}
                     <div class="info-icon">
@@ -116,7 +126,12 @@
             </div>
         </nav>
         <div class="custom-info-block">
+          
+          {%- if section.settings.info_1_link != blank -%}
+          <a href="{{ section.settings.info_1_link }}" class="custom-info-item" style="text-decoration: none; color: inherit;">
+          {%- else -%}
           <div class="custom-info-item">
+          {%- endif -%}
             {% if section.settings.info_1_icon != '' %}
             <div class="info-icon">
               <span class="icon"><i class="{{ section.settings.info_1_icon }}"></i></span>
@@ -130,7 +145,12 @@
               {{ section.settings.info_1_text }}
               {% endif %}
             </div>
+          {%- if section.settings.info_1_link != blank -%}
+          </a>
+          {%- else -%}
           </div>
+          {%- endif -%}
+
           <div class="custom-info-item">
             {% if section.settings.info_2_icon != '' %}
             <div class="info-icon">
@@ -216,6 +236,11 @@
       "type": "richtext",
       "id": "info_1_text",
       "label": "Info Label"
+    },
+    {
+      "type": "url",
+      "id": "info_1_link",
+      "label": "Enlace para Información 1"
     },
     {
       "type": "header",
