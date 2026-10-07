@@ -393,7 +393,7 @@
           "info_1_icon": "ri-customer-service-2-line",
           "info_1_label": "¿Necesitas ayuda? Escríbenos:",
           "info_1_text": "<p>+56 9 8340 6651</p>",
-          "info_1_link": "https://w.app/cbtax6",
+          "info_1_link": "https://wa.link/nh8x3u",
           "info_2_icon": "",
           "info_2_label": "",
           "info_2_text": "",
@@ -1449,7 +1449,7 @@
           "ec0d9f2b-fe12-4fca-b69e-b8dbaf0fd383": {
             "type": "footer_menu",
             "settings": {
-              "container_width": 17,
+              "container_width": 100,
               "show_nav_title": false,
               "footer_menu_handle": "footer-1"
             }
