@@ -1822,6 +1822,24 @@
         "settings": {
           "position": "right"
         }
+      },
+      "2165198469259840702": {
+        "type": "shopify://apps/prodspin-ai/blocks/product-spinner-inject/019cdb30-9672-7c8f-8e8c-ed5b5e723273",
+        "disabled": false,
+        "settings": {
+          "enabled": true,
+          "auto_spin": false,
+          "selector": ".product-form",
+          "widget_id": "default-widget",
+          "loading_indicator": true,
+          "loading_size_desktop": 120,
+          "loading_size_mobile": 80,
+          "loading_bg_style": "grey",
+          "loading_bg_color": "#f5f5f5",
+          "swipe_indicator": true,
+          "swipe_src": "",
+          "swipe_size": 140
+        }
       }
     }
   },
