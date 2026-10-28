@@ -140,15 +140,14 @@
       "block_order": [
         "spinr_spinr_spin_Xr3JWj"
       ],
-      "disabled": true,
       "settings": {}
     }
   },
   "order": [
     "product-template",
+    "1793204283e101ba65",
     "single-product-tab",
     "related-product",
-    "17785400869739e226",
-    "1793204283e101ba65"
+    "17785400869739e226"
   ]
 }
