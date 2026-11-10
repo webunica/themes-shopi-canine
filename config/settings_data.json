@@ -1566,6 +1566,7 @@
         "blocks": {
           "offer_text_jXHEqG": {
             "type": "offer_text",
+            "disabled": true,
             "settings": {
               "custom_text": "5, 6 y 7 de octubre CYBER"
             }
@@ -1573,7 +1574,7 @@
           "offer_text_PdbtLT": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Hasta 40% dcto CYBER"
+              "custom_text": "Hasta 40% dcto"
             }
           },
           "offer_text_hVfJGF": {
@@ -1597,7 +1598,7 @@
           "offer_text_kq9HdV": {
             "type": "offer_text",
             "settings": {
-              "custom_text": "Hasta 40% dcto CYBER"
+              "custom_text": "Hasta 40% dcto"
             }
           },
           "a5502d50-e740-47ff-8cdf-48fe8aba97b9": {
