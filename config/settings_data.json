@@ -927,7 +927,7 @@
           "58585e36-a886-4e60-984d-69575dbc4190": {
             "type": "slide",
             "settings": {
-              "slider_img": "shopify://shop_images/CF-SEPT-SEM01-BANNER-2026.png",
+              "slider_img": "shopify://shop_images/CF-OCT-SEM05-2026.png",
               "slider_mobile_img": "shopify://shop_images/Equipate_para_darlo_todo.png",
               "slider_title": "",
               "slider_title_color": "#332e84",
@@ -1783,10 +1783,99 @@
           "padding_top_mobile": 40,
           "padding_bottom_mobile": 40
         }
+      },
+      "slider_ynWfM4": {
+        "type": "slider",
+        "blocks": {
+          "slide_HmmWbM": {
+            "type": "slide",
+            "settings": {
+              "slider_img": "shopify://shop_images/CF-SEPT-SEM01-BANNER-2026.png",
+              "slider_mobile_img": "shopify://shop_images/Equipate_para_darlo_todo.png",
+              "slider_title": "",
+              "slider_title_color": "#332e84",
+              "slider_title_effect": "e1",
+              "slider_subtitle": "",
+              "slider_subtitle_color": "#ffffff",
+              "slider_subtitle_effect": "e1",
+              "slider_btn_bio_effect": "e1",
+              "slider_button": "",
+              "slider_button_url": "shopify://collections",
+              "slider_button_style": "btn-style1",
+              "bio_big_title": "",
+              "bio_small_title": "",
+              "slider_bio_color": "#ffffff",
+              "pro_testi_review": "1",
+              "slider_content_position": "right",
+              "slider_text_position": "left"
+            }
+          },
+          "slide_XypXy3": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slider_img": "shopify://shop_images/artes-marciales-1.png",
+              "slider_mobile_img": "shopify://shop_images/mobile-01.png",
+              "slider_title": "Productos Resistentes",
+              "slider_title_color": "#ee4036",
+              "slider_title_effect": "e1",
+              "slider_subtitle": "Revisa nuestro catálogo",
+              "slider_subtitle_color": "#ffffff",
+              "slider_subtitle_effect": "e1",
+              "slider_btn_bio_effect": "e1",
+              "slider_button": "Comprar",
+              "slider_button_url": "",
+              "slider_button_style": "btn-style1",
+              "bio_big_title": "4.5",
+              "bio_small_title": "5.0k Rating",
+              "slider_bio_color": "#ffffff",
+              "pro_testi_review": "3",
+              "slider_content_position": "left",
+              "slider_text_position": "left"
+            }
+          },
+          "slide_njy4mp": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slider_title": "Strong bodies",
+              "slider_title_color": "#ffffff",
+              "slider_title_effect": "e1",
+              "slider_subtitle": "Price strating at $299.00",
+              "slider_subtitle_color": "#ffffff",
+              "slider_subtitle_effect": "e1",
+              "slider_btn_bio_effect": "e1",
+              "slider_button": "Comprar",
+              "slider_button_url": "",
+              "slider_button_style": "btn-style1",
+              "bio_big_title": "4.5",
+              "bio_small_title": "5.0k Rating",
+              "slider_bio_color": "#ffffff",
+              "pro_testi_review": "5",
+              "slider_content_position": "left",
+              "slider_text_position": "left"
+            }
+          }
+        },
+        "block_order": [
+          "slide_HmmWbM",
+          "slide_XypXy3",
+          "slide_njy4mp"
+        ],
+        "disabled": true,
+        "settings": {
+          "slider_bg_img_overlay_color": "#333333",
+          "slider_bg_img_overlay_color_opacity": 0,
+          "slider_autoplay_enable": false,
+          "slider_autoplay_timeout": "5000",
+          "slider_autoplay_speed": "5000",
+          "slider_content_enable": false
+        }
       }
     },
     "content_for_index": [
       "1605848244aeafd51a",
+      "slider_ynWfM4",
       "b93d9eb2-d533-49a5-8f66-abc3b5b0d8f6",
       "tabbed_collections_VpQRgz",
       "tabbed_collections_GkYWix",
