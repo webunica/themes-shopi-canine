@@ -1,6 +1,11 @@
+{%- assign is_preorder = false -%}
+{%- if product.tags contains 'preventa' -%}
+  {%- assign is_preorder = true -%}
+{%- endif -%}
+
 {% if product.available %}
 <button type="submit" class="btn add-to-cart ajax-spin-cart" id="AddToCart">
-  <span class="cart-title" id="AddToCartText">{{ 'products.product.add_to_cart' | t }}</span>
+  <span class="cart-title" id="AddToCartText">{% if is_preorder %}PREVENTA{% else %}{{ 'products.product.add_to_cart' | t }}{% endif %}</span>
   <span class="cart-loading load-anim"><i class="ri-loader-4-line"></i></span>
   <span class="cart-added"><i class="ri-check-line"></i></span>
   <span class="cart-unavailable">{{ 'products.product.sold_out' | t }}</span>
