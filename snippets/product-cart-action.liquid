@@ -15,6 +15,36 @@
   <span class="cart-text">{{ 'products.product.sold_out' | t }}</span>
 </button>
 {% endif %}
+
+{% if is_preorder %}
+<script type="text/javascript">
+  (function() {
+    var texto = 'PREVENTA';
+    function forzarTexto() {
+      var el = document.getElementById('AddToCartText');
+      if (el && el.textContent.trim() !== texto) {
+        el.textContent = texto;
+      }
+    }
+    function iniciar() {
+      var el = document.getElementById('AddToCartText');
+      if (!el) return;
+      forzarTexto();
+      new MutationObserver(forzarTexto).observe(el.parentNode, {
+        childList: true,
+        characterData: true,
+        subtree: true
+      });
+    }
+    if (document.readyState === 'complete') {
+      iniciar();
+    } else {
+      window.addEventListener('load', iniciar);
+    }
+  })();
+</script>
+{% endif %}
+
 <script type="text/javascript">
 window.addEventListener("DOMContentLoaded", function() {
   
