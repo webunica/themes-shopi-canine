@@ -8,13 +8,28 @@
   {{ 'products.product.buy_now' | t }}
 </a>
 {% endif %}
+
 {% if is_preorder %}
+<div class="preorder-note">
+  <strong>PREVENTA:</strong> Producto disponible para despachar a partir del 07-12
+</div>
 <style>
-  .product-actions .instant-buy{
-    display: none;
+  .preorder-note{
+    margin-top: 12px;
+    padding: 10px 14px;
+    font-size: 14px;
+    line-height: 1.4;
+    border-radius: var(--sti-border-radius);
+    background-color: rgba(0, 0, 0, 0.04);
+    color: #333;
+    text-align: center;
+  }
+  .preorder-note strong{
+    color: var(--font-color-primary);
   }
 </style>
 {% endif %}
+
 <script type="text/javascript">
   function instantBuy{{ product.id }}(){
     jQuery.post('/cart/add', $(".cart-{{ product.id }}").serialize()).
