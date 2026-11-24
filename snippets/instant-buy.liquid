@@ -1,7 +1,19 @@
-{% if product.available %}
+{%- assign is_preorder = false -%}
+{%- if product.tags contains 'preventa' -%}
+  {%- assign is_preorder = true -%}
+{%- endif -%}
+
+{% if product.available and is_preorder == false %}
 <a href="javascript:void(0)" class="buy-btn" id="buyNow" onClick="instantBuy{{ product.id }}()">
   {{ 'products.product.buy_now' | t }}
 </a>
+{% endif %}
+{% if is_preorder %}
+<style>
+  .product-actions .instant-buy{
+    display: none;
+  }
+</style>
 {% endif %}
 <script type="text/javascript">
   function instantBuy{{ product.id }}(){
