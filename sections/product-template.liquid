@@ -187,8 +187,8 @@
                   <span>{{ section.settings.out_of_stock_title }}<i class="feather-x"></i></span>
                 </span>
                 <span class="in-stock text-success">
-                  <span>{{ section.settings.in_stock_title }}<i class="feather-check"></i></span>
-                </span>
+  <span>{% if product.tags contains 'preventa' %}Pre-venta{% else %}{{ section.settings.in_stock_title }}{% endif %}<i class="feather-check"></i></span>
+</span>
               </div>
             </div>
           </div>
